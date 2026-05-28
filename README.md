@@ -20,6 +20,7 @@ Fuente: IUCN Red List (Lista Roja de especies amenazadas).
 - pandas
 - matplotlib
 - numpy
+- Kaggle datos abiertos
 
 ## Estructura del análisis
 1. Carga y exploración del dataset
@@ -29,4 +30,4 @@ Fuente: IUCN Red List (Lista Roja de especies amenazadas).
 5. Informe final con recomendaciones
 
 ## Autora
-Stephany — Medellín, Colombia
+Stephany Carrasco Sardon — Medellín, Colombia
